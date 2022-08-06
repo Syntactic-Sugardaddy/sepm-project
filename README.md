@@ -3,7 +3,7 @@
 This is the *frontend* of the ticket service website we built as a part of the TU Wien 2022 SEPM course.  
 The backend is not included, instead we whipped up a *mocked* version of it. Try searching for the merchandise named `cat`. 
 
-[Check it out in action here]()
+[Check it out in action here](https://syntactic-sugardaddy.github.io/sepm-project/#/)
 
 ![Screenshot](./screenshot.png)
 
