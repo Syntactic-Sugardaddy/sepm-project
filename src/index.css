@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Vue-Toastification__container.top-right.my-toast-container{
+  top: 4em;
+  font-size: 1.1em;
+}
+body {
+  overflow-y: scroll;
+}
